@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(202, 35, 13);
+    font-family: cursive ;
+    color: white;
+    font-weight: 800;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+
+li {
+    font-size: 25px;
+    color: black;  
+}
+
+

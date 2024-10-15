@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(202, 35, 13);
+    font-family: cursive ;
+    color: white;
+    font-weight: 800;
+}
+
+h1{
+    font-size: 50px;
+}
+
+li {
+    font-size: 25px;
+    color: black;  
+}
+
+a {
+    text-decoration: none
+}
