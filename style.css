@@ -17,3 +17,8 @@ li {
 a {
     text-decoration: none
 }
+
+img{
+    height: auto;
+    width: 200px;
+}
